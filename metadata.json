@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineAI",
+  "description": "An intelligent, AI-powered productivity companion that helps you plan, prioritize, optimize, and reschedule your tasks before deadlines using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
