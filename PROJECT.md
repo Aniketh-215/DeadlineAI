@@ -1,8 +1,4 @@
 # DeadlineAI – Project Documentation & Workflows
-
-> **Submission Document Reference**
-> * **Project Description (Google Doc Link):** [DeadlineAI Project Description - Submission Document](https://docs.google.com/document/d/1_DeadlineAI_Project_Description_Aniketh/edit?usp=sharing) *(Note: Please copy the content below directly into your Google Doc submission for a fully polished, publication-ready presentation.)*
-
 ---
 
 ## 1. Problem Statement Selected
