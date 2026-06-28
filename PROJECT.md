@@ -1,4 +1,5 @@
-Project Report : DeadlineAI – AI powered smart task management and productivity assistant 
+#Project Report : **DeadlineAI** 
+### AI-Powered Smart Task Management & Productivity Assistant** 
 ---
 
 ## 1. Problem Statement Selected
